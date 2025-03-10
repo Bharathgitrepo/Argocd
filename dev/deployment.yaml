@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: bharath143ongole/demo-devops:1.1
+        image: bharath143ongole/demo-devops:0.8
         ports:
         - containerPort: 8080
